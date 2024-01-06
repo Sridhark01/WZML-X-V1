@@ -86,7 +86,7 @@ help - All cmds with description
 
 ## 🏅 **Bot Authors**
 <details>
-    <summary><b>Click Here For Description</b></summary>
+    <b>Click Here For Description</b>
 
 |<img width="80" src="https://avatars.githubusercontent.com/u/138989644">|<img width="80" src="https://avatars.githubusercontent.com/u/105407900">|<img width="80" src="https://avatars.githubusercontent.com/u/113664541">|<img width="80" src="https://avatars.githubusercontent.com/u/84721324">|
 |:---:|:---:|:---:|:---:|
