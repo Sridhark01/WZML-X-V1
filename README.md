@@ -47,7 +47,6 @@ heroku create --region us YOUR-APP-NAME
 
 ### 🤖 ***Bot Commands***
 
-<details>
   <summary>Bot commands can be automatically set by <code>SET_COMMANDS</code> Var <sup><kbd>View All Commands</kbd></sup></summary>
 
 ```
@@ -77,7 +76,6 @@ ping - Ping the Bot
 help - All cmds with description
 ```
 
-</details>
 
 
 
