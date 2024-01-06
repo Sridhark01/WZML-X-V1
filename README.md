@@ -9,7 +9,7 @@ git clone https://github.com/Sridhark01/RE_LEECH_PRO RE_LEECH_PRO/ && cd RE_LEEC
  
 - Switch to deploy branch:
 ```
-git checkout dep
+git checkout heroku_deploy
 ```
 
 - Login to heroku:
@@ -26,7 +26,7 @@ heroku create --region us YOUR-APP-NAME
 
 - Create container: ```heroku stack:set container```
 
-- Push to heroku: ```git push heroku dep:master -f```
+- Push to heroku: ```git push heroku heroku_deploy:master -f```
 
 
 ### Extras
