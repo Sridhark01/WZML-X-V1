@@ -89,6 +89,6 @@ help - All cmds with description
 |<img width="80" src="https://avatars.githubusercontent.com/u/138989644">|<img width="80" src="https://avatars.githubusercontent.com/u/105407900">|<img width="80" src="https://avatars.githubusercontent.com/u/113664541">|<img width="80" src="https://avatars.githubusercontent.com/u/84721324">|
 |:---:|:---:|:---:|:---:|
 |[`Sridhar`](https://github.com/sridhark01)|[`SilentDemonSD`](https://github.com/SilentDemonSD)|[`CodeWithWeeb`](https://github.com/weebzone)|[`Maverick`](https://github.com/MajnuRangeela)|
-|Author and DDL, UI Design, More Customs..|Author and Wraps Up Features|Co-Author & Bug Tester|
+|UI Designer,customisation..|Author and DDL, UI Design, More Customs..|Author and Wraps Up Features|Co-Author & Bug Tester|
 
 
