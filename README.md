@@ -4,7 +4,7 @@
 ---
 -  Clone this repo:
 ```
-git clone https://github.com/Sridhark01/RE_LEECH_PRO RE_LEECH_PRO/ && cd RE_LEECH_PRO
+git clone https://github.com/Sridhark01/WZML-X-V1 WZML-X-V1/ && cd WZML-X-V1
 ```
  
 - Switch to deploy branch:
